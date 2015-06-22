@@ -1,0 +1,5 @@
+RESTATUS,RESTATUS_
+1,"RESIDENT: State and county of occurrence and residence are the same."
+2,"INTRASTATE NONRESIDENT: State of occurrence and residence are the same but county is different."
+3,"INTERSTATE NONRESIDENT: State of occurrence and residence are different but both are one of the 50 US states or District of Columbia."
+4,"FOREIGN RESIDENT: The state of residence is not one of the 50 US states or District of Columbia."
